@@ -1,2 +1,2 @@
-# myproject
-this is test repo
+# Projet interface
+this is our first C project
